@@ -31,6 +31,7 @@ html{
 }
 
 body{
+    display: flex;
     height: 100vh; /* view height, da onde inicia e termina a tela --Vertical*/
     background: var(--background);
 }
